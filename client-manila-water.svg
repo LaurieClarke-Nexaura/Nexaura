@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-label="Manila Water">
+  <g transform="translate(10 12)">
+    <circle cx="59" cy="63" r="49" fill="#4A9BB0" opacity=".15"/>
+    <path d="M18 66c14-38 64-46 87-14 18 26 2 62-29 67-28 4-49-16-48-39 1-20 17-34 36-35 15-1 29 8 33 21 5 16-5 33-21 37-13 3-27-5-30-18-3-11 5-22 16-24 9-2 17 3 20 10" fill="none" stroke="#247F9D" stroke-width="10" stroke-linecap="round"/>
+    <path d="M47 15c7-13 15-15 19-15 4 0 12 2 19 15" fill="none" stroke="#86BFC7" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="128" y="75" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="1" fill="#2D8C82">MANILA WATER</text>
+  <text x="132" y="111" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="4" fill="#2F7FA0">CARE IN EVERY DROP</text>
+</svg>
