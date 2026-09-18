@@ -1,8 +1,13 @@
-Nexaura Homepage Live Interim v7
+Nexaura Homepage — Live Interim v8.2
 
-This version is based on v5 and makes one targeted change to the Who We Help section based on Spen Nash's feedback:
-- Removes the third/explanatory qualifier column (e.g. Owner-led / founder-led, revenue bands).
-- Restores and keeps the useful market descriptions.
-- Refines Wealth and Athletics so all five markets describe the performance situation consistently.
+Base: Live Interim v7.
 
-Deployment: upload the CONTENTS of this folder to the GitHub Pages repository root, replacing the current site files, then commit.
+Surgical changes only:
+- Claims The Nexaura Negative Compounding Loop™ above the loop.
+- Adds the canonical Negative Compounding Loop definition.
+- Adds the positive-compounding counterpoint and proprietary ownership line.
+- Updates homepage/social meta descriptions and SVG description to associate the phrase with Nexaura.
+- Realigns only the six loop arrows so arrowheads sit in the gaps; no other loop elements changed.
+- Changes the public contact button to Contact Us at contact@nexaura.io.
+
+All other v7 content, structure, assets and styling are preserved.
